@@ -1,2 +1,1 @@
-# Pattern_problems
 # PatternPrograms
